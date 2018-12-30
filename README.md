@@ -1,2 +1,2 @@
 # Burger-Builder
-A Udemy Course (React - The complete guide) Project by Maximilian Schwarzmüller
+A Project based on a Udemy Course (React - The complete guide) by Maximilian Schwarzmüller
